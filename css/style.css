@@ -20,7 +20,40 @@ header {
 
 header img {
   width: 200px;
-  margin-top: 25px;
+  margin-top: 30px;
   margin-bottom: 10px;
 }
 /* FINE HEADER */
+
+/* MAIN */
+main {
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 37px;
+  line-height: 38px;
+}
+
+.author {
+  color: grey;
+  font-size: 20px;
+}
+
+.author span {
+  color: lightblue;
+}
+
+.date {
+  color: grey;
+}
+
+.foto-tim {
+  margin-top: 20px;
+}
+
+.caption {
+  font-size: 13px;
+}
+
+/* FINE MAIN */
